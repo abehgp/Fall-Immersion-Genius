@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<htlm lang="em">
+<head>
+    <meta charset="UFT-8">
+    <meta name="viewport" content="width=device-width, inital-scale=1.0"
+    <link> rel="stylesheet" href="styles.css">
+    <title>Modal Pop up<title>
+    </head>
+    <body>
+        <button id="openModal">Open modal<button>
+
+        <div id="openModel">Open Model</button>
+            <div class=
